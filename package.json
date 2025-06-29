@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "npm run deploy"
+    "deploy": "main -d dist"
   
   },
   "dependencies": {
